@@ -22,8 +22,8 @@ solution to a challenge I set for myself while practicing `HTML` & `CSS`.
 
 > **Refference:** 
 
-* > [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
+- > [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
 
-* > [@MDN](https://developer.mozilla.org/)
+- > [@MDN](https://developer.mozilla.org/)
 
-* > **@Altschool School of Engineering**
+- > **@Altschool School of Engineering**
