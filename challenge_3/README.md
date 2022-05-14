@@ -1,10 +1,9 @@
 # SUCCY HOMEPAGE
 
-solution to a challenge I set for myself while practicing `HTML` & `CSS`
+solution to a challenge I set for myself while practicing `HTML` & `CSS`.
 
 ## Overview 👇
-
-[landingPage](./img/myPage.png)
+  - [landingPage](./img/myPage.png)
 
 ## Built With 🛠
   * HTML5
@@ -17,4 +16,3 @@ solution to a challenge I set for myself while practicing `HTML` & `CSS`
 > **Refference:** [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
 [@MDN](https://developer.mozilla.org/)
 @Altschool School of Engineering
-@
