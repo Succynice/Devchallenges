@@ -2,10 +2,6 @@
 
 solution to a challenge I set for myself while practicing `HTML` & `CSS`.
 
-[@MDN](https://developer.mozilla.org/)
-
-@Altschool School of Engineering
-
 ## Overview 👇
   - [landingPage](./img/myPage.png)
 
@@ -17,8 +13,10 @@ solution to a challenge I set for myself while practicing `HTML` & `CSS`.
   - Github: [@succynice](https://github.com/Succynice)
   - Twitter: [@succynice](https://twitter.com/succynice)
 
-> **Refference:** [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
+> **Refference:** 
 
-[@MDN](https://developer.mozilla.org/)
+* > [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
 
-@Altschool School of Engineering
+* > [@MDN](https://developer.mozilla.org/)
+
+* > @Altschool School of Engineering
