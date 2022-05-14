@@ -2,6 +2,10 @@
 
 solution to a challenge I set for myself while practicing `HTML` & `CSS`.
 
+[@MDN](https://developer.mozilla.org/)
+
+@Altschool School of Engineering
+
 ## Overview 👇
   - [landingPage](./img/myPage.png)
 
