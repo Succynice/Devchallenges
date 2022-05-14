@@ -13,6 +13,7 @@ solution to a challenge I set for myself while practicing `HTML` & `CSS`.
   - Github: [@succynice](https://github.com/Succynice)
   - Twitter: [@succynice](https://twitter.com/succynice)
 
-> **Refference:** [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
+
 > [@MDN](https://developer.mozilla.org/)
- > @Altschool School of Engineering
+> @Altschool School of Engineering
+> **Refference:** [ @devchallenges.io](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr)
