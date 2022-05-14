@@ -5,6 +5,13 @@ solution to a challenge I set for myself while practicing `HTML` & `CSS`.
 ## Overview 👇
   - [landingPage](./img/myPage.png)
 
+## Files 📃
+ _Filename_ | _Description_
+ -----------|---------------
+ [img](./img/) | Images folder
+ [styles](./styles/) | file containing `CSS` file
+ [index](./index.html) | HTML file
+
 ## Built With 🛠
   * HTML5
   * CSS3
@@ -19,4 +26,4 @@ solution to a challenge I set for myself while practicing `HTML` & `CSS`.
 
 * > [@MDN](https://developer.mozilla.org/)
 
-* > @Altschool School of Engineering
+* > **@Altschool School of Engineering**
